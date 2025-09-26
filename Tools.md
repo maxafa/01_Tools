@@ -37,6 +37,7 @@
 - [fffuel](https://www.fffuel.co/) - Patterns for backgrounds
 
 ### TUTORIALS ON YT
+- [Linux Basics](https://www.youtube.com/watch?v=1VYtSSnd9hg&list=PLpUS2q-4L9xx9P1SzadLKXGEY30yhVqYu) - Linux Basics Tutorial
 
 #### CSS 
 - [REVERSED BORDER RADIUS] (https://youtu.be/oWXm5n-Zi38?si=eYtPxVkkvcAzukKz) - reversed border radius clip-path
