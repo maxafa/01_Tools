@@ -52,6 +52,7 @@
 - [SyncThing](https://www.youtube.com/watch?v=Akna8Iqrww8) - Konfigurowanie linuxa z telefonem
 - [pwd{root}](https://www.youtube.com/@therootdir) - hacking tutorials
 - [DNS TEST](https://www.dnsleaktest.com) - testing DNS
+- [LEARN VIM](https://openvim.com/) - Learn VIM by simulator
 
 #### OSINT
 
